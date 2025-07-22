@@ -11,13 +11,9 @@ El objetivo es identificar patrones de comportamiento y factores asociados a la 
 
 ```
 📦 TelecomX/
- ┣ 📄 grafico_evasion_contrato.png
- ┣ 📄 grafico_evasion_met_pago_contrato.png
- ┣ 📄 grafico_evasion_pie.png
+ ┣ 📄 graficos
  ┣ 📄 TelecomX_final.ipynb
  ┣ 📄 README.md
- ┗ 📄 requirements.txt
-
 ```
 
 ## 📊 Ejemplos de Gráficos Generados
