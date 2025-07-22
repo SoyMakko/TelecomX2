@@ -46,26 +46,6 @@ A continuación se presentan algunos de los gráficos más relevantes extraídos
 - Realizar un monitoreo constante de clientes que pagan por internet de alta velocidad (fibra), ya que presentan tasas elevadas de salida.
 - Analizar en mayor profundidad las razones específicas de salida para los clientes con menor antigüedad.
 
-## ▶️ Instrucciones para Ejecutar el Notebook
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/usuario/proyecto-telecomx.git
-   cd proyecto-telecomx
-   ```
-
-2. Instala las dependencias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Abre el notebook:
-   ```bash
-   jupyter notebook TelecomX_final.ipynb
-   ```
-
-> 💡 Los datos se cargan automáticamente desde una URL pública, por lo que no es necesario descargar archivos adicionales.
-
 ## 💡 Herramientas Utilizadas
 
 - Python 3.x
